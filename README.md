@@ -2,26 +2,26 @@
 
 I am a Frontend React Developer. I am learning programming on my own and constantly discovering new topics through new projects. I am currently looking for my first job in IT. For 15 years, I worked as an IT specialist, mainly managing electronic document circulation and providing technical support to employees. 
 
-### 🖥️ Main technology stack
+### 🖥️ Main Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,git,vscode" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,git,vscode" style="max-width: 100%;">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### ☝️ I also know
-- React Native, No Code / Low Code, Bootstrap, Vite, RestAPI, Next.JS, Vercel, RWD, UX / UI, PWA
+- React Native, No Code / Low Code, Bootstrap, Vite, RestAPI, Next.JS, Vercel, RWD, UX / UI, PWA, AI
 - MongoDB
 - Jest, Vitest
 - Joomla, Wordpress 
-- Adobe Photoshop, Corel Draw, Figma
 
-**Soft skills** - Listening, Composure, Patience, Perseverance
+### 💪 Proud projects
+- Promotional Savings
+- Our Family Films
+- Cat's Blog
 
-### My proud projects
-- 💰 Promotional Savings
-- 📺 Our Family Films
-- 🐈 Cat's Blog
-- 🎲 Memory Game
+---
 
-**Hobbies** - Wheelchair rugby, Computer games
-⚡ **Fun fact**: I don't lift a finger, but I write programs and applications 🫢
+**Soft skills** Composure, Patience, Perseverance
 
-### “If God is for us, who can be against us?” Romans 8:31
+**Hobbies** Wheelchair rugby, Computer games
+
+**Fun fact** I don't lift a finger, but I write programs and applications 🫢
+
+#### *“If God is for us, who can be against us?” Romans 8:31*
