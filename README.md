@@ -3,10 +3,11 @@
 I am a Frontend React Developer. I am learning programming on my own and constantly discovering new topics through new projects. I am currently looking for my first job in IT. For 15 years, I worked as an IT specialist, mainly managing electronic document circulation and providing technical support to employees. 
 
 ### 🖥️ Main technology stack
-JS, React, HTML, CSS, Tailwind
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,git,vscode" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,git,vscode" style="max-width: 100%;">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### ☝️ I also know
-- Typescript, React Native, No Code / Low Code, Bootstrap, Vite, RestAPI, Next.JS, Vercel, RWD, UX / UI, PWA
+- React Native, No Code / Low Code, Bootstrap, Vite, RestAPI, Next.JS, Vercel, RWD, UX / UI, PWA
 - MongoDB
 - Jest, Vitest
 - Joomla, Wordpress 
