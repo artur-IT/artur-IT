@@ -18,7 +18,7 @@ I am a Frontend React Developer. I am learning programming on my own and constan
 
 ---
 
-**Soft skills** Composure, Patience, Perseverance
+**Soft skills** Calm, Patient, Persistent
 
 **Hobbies** Wheelchair rugby, Computer games
 
